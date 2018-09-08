@@ -1,0 +1,5785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Last_Resort_Refuges">
+  <name>Last_Resort_Refuges</name>
+  <Snippet></Snippet>
+  <description><![CDATA[Last_Resort_Refuges]]></description>
+  <Folder id="FeatureLayer0">
+    <name>Last_Resort_Refuges</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Last_Resort_Refuges]]></description>
+    <Placemark id="ID_00000">
+      <name>Booborowie</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Booborowie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Booborowie Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Booborowie Road, Booborowie SA 5417</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Regional Council of Goyder</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Booborowie</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7601532286242,-33.55924083840208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Robertstown</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Robertstown</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Robertstown Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Main Road, Robertstown SA 5381</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Regional Council of Goyder</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Robertstown</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.0787510454778,-33.99334113930013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Birdwood</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Birdwood</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Birdwood Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Shannon Street, Birdwood SA 5234</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Hills Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Birdwood</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.9505962489999,-34.82191094335297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Gumeracha</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gumeracha</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Gumeracha Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Albert Street, Gumeracha SA 5233</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Hills Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Gumeracha</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8867592216014,-34.82113860264633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Houghton</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Houghton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Houghton Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Lower North East Road, Houghton SA 5733</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Hills Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Houghton</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7586975267377,-34.82895216206798,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Kersbrook</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kersbrook</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kersbrook Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Glover Street, Kersbrook SA 5231</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Hills Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kersbrook</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8599773689791,-34.78175172856825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Mount Torrens</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mount Torrens</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mount Torrens Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Oval Road, Mount Torrens SA 5244</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Hills Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mount Torrens</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.9569876266114,-34.8695631166423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Clayton Bay</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Clayton Bay</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Clayton Foreshore</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Island View Drive, Clayton SA 5256</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Alexandrina Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Clayton Bay</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.9234258357463,-35.49426472231741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Hindmarsh Island</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hindmarsh Island</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Marina Carpark</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Tolarno Drive, Hindmarsh Island SA 5214</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Alexandrina Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Hindmarsh Island</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7997440239311,-35.51276215981669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Langhorne Creek</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Langhorne Creek</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Langhorne Creek Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Murray Road, Langhorne Creek SA 5255</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Alexandrina Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Langhorne Creek</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.0288805684814,-35.29841097933439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Mount Compass</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mount Compass</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mount Compass Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Clyde Terrace, Mount Compass SA 5210</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Alexandrina Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mount Compass</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6192942216127,-35.34858637819183,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Sandy Creek</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sandy Creek</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Curdnatta Recreation Park</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Davis Road, Sandy Creek SA 5350</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>The Barossa Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Sandy Creek</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8280217473205,-34.60854970771796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Mount Pleasant</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mount Pleasant</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mount Pleasant Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Melrose Street, Mount Pleasant SA 5235</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>The Barossa Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mount Pleasant</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.0439227198721,-34.77569119796873,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Stockwell</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Stockwell</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Stockwell Recreation Park</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Duck Ponds Road, Stockwell SA 5355</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>The Barossa Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Stockwell</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.0473206980813,-34.43189951364842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Mundoora</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mundoora</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mundoora Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>South Street, Mundoora SA 5555</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Barunga West</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mundoora</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.081117318609,-33.5951613376205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Cobdogla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cobdogla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Cobdogla Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Shueard Street, Cobdogla SA 5346</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Berri Barmera Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Cobdogla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.4014776273071,-34.24430462226892,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Auburn</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Auburn</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Auburn Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Ford Street, Auburn SA 5451</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Clare and Gilbert Valleys Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Auburn</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6916860389414,-34.02956245469561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Manoora</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Manoora</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Manoora Centenary Park</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Weymouth Street (Barrier Highway), Manoora SA 5414</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Clare and Gilbert Valleys Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Manoora</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8154129236153,-33.99809600036166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Marrabel</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Marrabel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Marrabel Rodeo Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Main Road, Marrabel, SA 5413</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Clare and Gilbert Valleys Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Marrabel</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8790736019492,-34.1389871251966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Mintaro</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mintaro</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mintaro Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Mintaro Road, Mintaro SA 5415</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Clare and Gilbert Valleys Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mintaro</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7219525069746,-33.92376601699181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Darke Peak</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Darke Peak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Darke Peak Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Balumbah Kinnard Road, Darke Peak SA 5633</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Cleve</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Eastern Eyre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Darke Peak</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 136.199567542665,-33.46439685196124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Rudall</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rudall</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Rudall Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Birdseye Highway, Rudall SA 5642</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Cleve</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Eastern Eyre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Rudall</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 136.2744547890252,-33.68556805737899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Peake</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Peake</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Peake Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Netherton Road, Peake SA 5301</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Coorong District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Peake</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.9496258485484,-35.36609241321819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Paskeville</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Paskeville</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Paskeville Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Drewett Road, Paskeville SA 5552</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of The Copper Coast</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Yorke Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Paskeville</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.9051944576563,-34.04041445969212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Port Kenny</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Port Kenny</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Port Kenny Playground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Flinders Highway, Port Kenny SA 5671</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Elliston</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Port Kenny</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 134.6825345599535,-33.16671628350618,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Kongorong</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kongorong</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kongorong Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Hay Terrace, Kongorong SA 5291</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Grant</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kongorong</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.5608201195633,-37.90081481613534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Tarpeena</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tarpeena</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Tarpeena Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Edward Street, Tarpeena SA 5277</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Grant</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Tarpeena</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.7981792471169,-37.62670355111477,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>American River</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>American River</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>American River Wharf</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Tangara Drive, American River SA 5221</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kangaroo Island Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Kangaroo Island</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>American River</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.7732383257869,-35.78665808576637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Emu Bay</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Emu Bay</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Emu Bay Boat Ramp/Beach Front</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Hamilton Drive, Emu Bay SA 5223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kangaroo Island Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Kangaroo Island</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Emu Bay</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.5056329418408,-35.59200013870365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Parndana</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Parndana</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Parndana Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Daw Street, Parndana SA 5220</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kangaroo Island Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Kangaroo Island</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Parndana</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.2609735959615,-35.78564803437897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Stokes Bay</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Stokes Bay</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Stokes Bay Beach</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Stokes Bay SA 5223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kangaroo Island Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Kangaroo Island</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Stokes Bay</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.2063263787585,-35.6241364640923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Wiseanger</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wiseanger</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wisanger Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>North Cape Road, Bay of Shoals SA 5223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kangaroo Island Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Kangaroo Isalnd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wiseanger</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 137.5582992343735,-35.62783021565441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Buckleboo</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Buckleboo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Buckleboo Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Buckleboo Road, Buckleboo SA 5641</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Kimba</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Eastern Eyre</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Buckleboo</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 136.1618793068057,-32.9468920062862,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Cape Jaffa</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cape Jaffa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Cape Jaffa Marina Carpark</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Cape Jaffa Road, Cape Jaffa SA 5275</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Kingston District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Cape Jaffa</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.7007082861606,-36.9447551805858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Roseworthy</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Roseworthy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Adelaide University, Roseworthy Campus Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Mudla Wirra Road, Wasleys SA 5371</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Light Regional Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Roseworthy</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6888368380816,-34.53105717114987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Wasleys</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wasleys</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wasleys Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Station Street, Wasleys SA 5400</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Light Regional Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wasleys</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6812884781553,-34.47327802794626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Karkoo</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Karkoo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Karkoo Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Archie Griffiths Road, Karkoo SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Karkoo</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.7311495618564,-34.03020175918293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Coffin Bay</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Coffin Bay</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Coffin Bay Yacht Club</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Esplanade, Coffin Bay SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Paninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Coffin Bay</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.467584262374,-34.62155898988841,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Mount Hope</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mount Hope</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mount Hope Hall</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Flinders Highway, Mount Hope SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mount Hope</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.3543092229692,-34.10848034542089,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Kapinnie</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kapinnie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kapinnie Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Lawrence Road, Kapinnie SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninisula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kapinnie</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.49557024765,-34.13747654949815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>North Shields</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>North Shields</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>George Dorward Memorial Reserve</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Easton Street, North Shields SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>North Shields</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.8666020010338,-34.62797600895495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>North Shields</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>North Shields</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Dorward Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Lincoln Highway, North Shields SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>North Shields</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.8672230251184,-34.61372122136735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Wangary</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wangary</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wangary Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Flinders Highway, Wangary SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of the Lower Eyre Peninsula</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wangary</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.4778855960474,-34.53823502682864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Kingston on Murray</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kingston on Murray</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kingston on Murray River Front</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Holmes Road, Kingston on Murray SA 5331</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kingston on Murray</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.3451149206819,-34.21991624577017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Loxton North</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Loxton North</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Loxton North Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Balfour Ogilvy Road, Loxton North SA 5333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Loxton North</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6238410319289,-34.41499458936884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Moorook</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Moorook</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Moorook Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Curtis Street, Moorook SA 5332</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Moorook</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.3639613549134,-34.27777592889894,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name> Paruna</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> Paruna</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Browns Well Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Railway Terrace, Paruna SA 5311</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Paruna</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.7264425191568,-34.71961668180038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Ramco</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ramco</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Ramco Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Ramco Road, Ramco SA 5322</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Ramco</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.9307758135916,-34.16933130674958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Wunkar</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wunkar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wunkar Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Snodgrass Road, Wunkar SA 5311</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Loxton Waikerie</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wunkar</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.3027233950148,-34.49231499667044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Long Plains</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Long Plains</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Long Plains Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Ridley Road, Long Plains SA 5501</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Adelaide Plains Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Long Plains</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.3762312201741,-34.36280908095991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Keyneton</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Keyneton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Keyneton Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Keyneton Road, Keyneton SA 5353</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mid Murray Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Keyneton</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.1269845239931,-34.56883597810364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Sedan</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sedan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Sedan Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Ridley Road, Sedan SA 5353</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mid Murray Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Sedan</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.2895261122299,-34.57607166511208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Bellevue Heights</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bellevue Heights</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Bellevue Heights Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Alpha Road, Bellevue Heights SA 5050</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Mitcham</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Bellevue Heights</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.5882955051705,-35.03112276516377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Blackwood</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Blackwood</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Blackwood Hill Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Trevor Tce &amp; Craigburn Road, Blackwood SA 5051</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Mitcham</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Blackwood</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.608671201057,-35.0331067874877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Blackwood</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Blackwood</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Hewett Sports Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Coromandel Pde, Blackwood SA 5051</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Mitcham</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Blackwood</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6201076295888,-35.0306090149256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Callington</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Callington</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Callington Recreation Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Callington Road, Callington SA 5254</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mount Barker District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Callington</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.0404388603519,-35.11338182054642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Echunga</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Echunga</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Echunga Recreation Park</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Echunga Road, Echunga SA 5153</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mount Barker District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Echunga</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7914817494071,-35.09578159913769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Littlehampton</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Littlehampton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Anembo Park</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Princes Highway, Littlehampton SA 5250</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mount Barker District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Littlehampton</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8537802189379,-35.05616872606895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Macclesfield</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Macclesfield</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Macclesfield Recreation Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Venables Street, Macclesfield SA 5153</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mount Barker District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Macclesfield</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.8304955565784,-35.16852832787196,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Meadows</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Meadows</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Meadows Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Mawson Road, Meadows SA 5201</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Mount Barker District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Meadows</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.7607226367868,-35.18001174222711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Avoca Dell</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Avoca Dell</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Avoca Dell Reserve</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Avoca Dell Drive, Avoca Dell SA 5253</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Rural City of Murray Bridge</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Avoca Dell</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.3080326797986,-35.08830595345808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Jervois</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jervois</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Jervois Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>William Street, Jervois SA 5259</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Rural City of Murray Bridge</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Jervois</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.4335163078391,-35.26488305307662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Mypolonga</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mypolonga</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mypolonga Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Mypolonga Road, Mypolonga SA 5254</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Rural City of Murray Bridge</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mypolonga</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.3272303381898,-35.02898824276906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Woodlane</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Woodlane</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Woodlane Reserve</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Woodlane Drive, Woodlane SA 5238</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Rural City of Murray Bridge</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Woodlane</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.3376071336135,-34.99731860578054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Frances</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Frances</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Frances Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>High Street, Frances SA 5262</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Naracoorte Lucindale Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Frances</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.9594134500667,-36.71282799357535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Georgetown</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Georgetown</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Georgetown Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>School Road, Georgetown SA 5472</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Northern Areas Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Georgetown</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.3881325611974,-33.36267855136948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Gulnare</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gulnare</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Gulnare Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>View Street, Gulnare SA 5471</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Northern Areas Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Gulnare</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.440539630765,-33.46919177095273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Coromandel Valley</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Coromandel Valley</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>67</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Waymouth Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Main Road, Coromandel Valley SA 5051</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Onkaparinga</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Coromandel Valley</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6189746303989,-35.05125744058756,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Kangarilla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kangarilla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kangarilla Recreational Grounds</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Kangarilla Road, Kangarilla SA 5157</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Onkaparinga</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kangarilla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6590362231789,-35.14235660171431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>Carrieton</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Carrieton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>69</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Carrieton Rodeo Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Wilmington Road, Carrieton SA 5432</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Orroroo Carrieton</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Flinders</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Carrieton</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.5239602284544,-32.42702799600966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>Redhill</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Redhill</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Redhill Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Ellis Street, Redhill SA 5521</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Port Pirie Regional Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mid North</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Redhill</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.2185552233898,-33.53971178093526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00071">
+      <name>Lyrup</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lyrup</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Lyrup Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Downer Avenue, Lyrup SA 5343</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Renmark Paringa Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Lyrup</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6533530952203,-34.2575421902895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00072">
+      <name>Paringa</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Paringa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>72</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Paringa Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Sturt Highway, Paringa SA 5340</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Renmark Paringa Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Riverland</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Paringa</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.7890876837892,-34.18321780472802,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00073">
+      <name>Geranium</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Geranium</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>73</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Geranium Sporting Complex</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Geranium Terrace, Geranium SA 5301</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Southern Mallee District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Geranium</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.1584670933782,-35.38443960320084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00074">
+      <name>Parilla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Parilla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>74</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Parilla Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Railway Terrace, Parilla SA 5303</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Southern Mallee District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Murraylands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Parilla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6717207787416,-35.29773092382487,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00075">
+      <name>Piednippie</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Piednippie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Piednippie Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Streaky Bay Road, Piednippie SA 5680</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Streaky Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Piednippie</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 134.4087999914574,-32.74322634081447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00076">
+      <name>Poochera</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Poochera</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>76</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Poochera Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Emerald Rise Road, SA 5655</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Streaky Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Poochera</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 134.8427382180985,-32.71324578409462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00077">
+      <name>Wirrulla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wirrulla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>77</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wirrulla Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Gawler Ranges Road, Wirrulla SA 5661</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Streaky Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wirrulla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 134.5423596792184,-32.40186199608132,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00078">
+      <name>Mundulla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mundulla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>78</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Mundulla Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>North Terrace, Mundulla SA 5270</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Tatiara District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Upper South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Mundulla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6915741063629,-36.35690862959085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00079">
+      <name>Padthaway</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Padthaway</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>79</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Padthaway Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Edwards Road, Padthaway SA 5271</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Tatiara District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Upper South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Padthaway</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.491731504937,-36.60243443202463,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00080">
+      <name>Willalooka</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Willalooka</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>80</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Willalooka Sports Ground</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Petherick Road, Willalooka SA  5267</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Tatiara District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Upper South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Willalooka</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.3494208692352,-36.39175052647923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00081">
+      <name>Wolseley</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wolseley</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>81</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wolseley Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Railway Terrace, Wolseley SA 5269</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Tatiara District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Upper South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wolseley</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.9093948971908,-36.36397880471706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00082">
+      <name>Cockaleechie</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cockaleechie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>82</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Cockaleechie Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Cockaleechie Road, Cockaleechie SA 5631</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Tumby Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Cockaleechie</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.8411342076666,-34.20977368071481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00083">
+      <name>Lipson</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Lipson</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>83</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Lipson Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Main Street, Lipson SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Tumby Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Lipson</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 136.1393771533764,-34.29146048532061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00084">
+      <name>Ungarra</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Ungarra</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>84</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Ungarra Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Moody Centre Road, Ungarra SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Tumby Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Ungarra</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 136.0503702113791,-34.17111719004325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00085">
+      <name>Yallunda Flat</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yallunda Flat</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>85</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Yallunda Flat Showgrounds</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Yallunda Flat Road, Yallunda Flat SA 5607</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Tumby Bay</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower Eyre Peninsula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Yallunda Flat</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.8797381125798,-34.34940612207848,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00086">
+      <name>Victor Harbor</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Victor Harbor</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>86</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Morgan Park Trotting Track</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Lippizzaner Drive, Hindmarsh Valley SA 5211</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Victor Harbor</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Victor Harbor</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.621015576101,-35.51685109950397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00087">
+      <name>Glencoe</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Glencoe</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>87</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Glencoe West Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Kirip Road, Glencoe SA 5291</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wattle Range Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Glencoe</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.5824786189342,-37.66889847425423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00088">
+      <name>Kalangadoo</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kalangadoo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>88</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kalangadoo Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Crowe Street, Kalangadoo SA 5278</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wattle Range Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kalangadoo</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6996286750949,-37.55913271003131,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00089">
+      <name>Nangwarry</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Nangwarry</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>89</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Nangwarry Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Bednall Drive, Nangwarry SA 5277</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wattle Range Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Nangwarry</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.8163976506544,-37.54131223117882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00090">
+      <name>Tantanoola</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tantanoola</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>90</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Tantanoola Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>South Terrace, Tantanoola SA 5280</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wattle Range Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Lower South East</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Tantanoola</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.460118434606,-37.69733116996095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00091">
+      <name>Kyancutta</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kyancutta</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>91</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Kyancutta Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Bedford Road, Kyancutta SA 5651</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wudinna District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Kyancutta</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.5602314799127,-33.12941892878013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00092">
+      <name>Warramboo</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Warramboo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Warramboo Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Club Road, Warramboo SA 5650</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>Wudinna District Council</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>West Coast</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Warramboo</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 135.6004979364077,-33.23807874058716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00093">
+      <name>Cape Jervis</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cape Jervis</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>93</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Carpark North of Cape Jervis Lighthouse</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Flinders Drive, Cape Jervis SA 5204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Cape Jervis</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.0944615878915,-35.60377456941215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00094">
+      <name>Carrickalinga</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Carrickalinga</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>94</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Carrickalinga Reserve</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Carrickalinga Road, Carrickalinga SA 5204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Carrickalinga</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.3280708076107,-35.42743632689768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00095">
+      <name>Myponga</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Myponga</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>95</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Myponga Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Oval Drive, Myponga SA 5202</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Myponga</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.4645936237479,-35.39421415354679,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00096">
+      <name>Rapid Bay</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rapid Bay</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>96</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Rapid Bay Carpark</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Colonel Light Drive, Rapid Bay SA 5204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Rapid Bay</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.1894401732384,-35.52524846302514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00097">
+      <name>Yankalilla</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Yankalilla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>97</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Yankalilla Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Main South Road, Yankalilla SA 5203</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Yankalilla</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.3492481157779,-35.45905728986407,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00098">
+      <name>Wirrina Cove</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wirrina Cove</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>98</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wirrina Cove Oval</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Paradise Drive, Wirrina Cove SA 5204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wirrina Cove</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.2588517083529,-35.50217145418579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00099">
+      <name>Wirrina Cove</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wirrina Cove</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>99</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Wirrina Cove Marina</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Paradise Drive, Wirrina Cove SA 5204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>District Council of Yankalilla</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>Wirrina Cove</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.2435661722781,-35.49949849345506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00100">
+      <name>The Range</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>The Range</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>100</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Last Resort Refuge</td>
+<td>Range Hope Forest Hall</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Penny's Hill Road &amp; Range Road, The Range 5172</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Council</td>
+<td>City of Onkaparinga</td>
+</tr>
+<tr>
+<td>Fire Ban District</td>
+<td>Mount Lofty Ranges</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>The Range</td>
+</tr>
+<tr>
+<td>CFS Region</td>
+<td>1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.6218231158586,-35.24630889152706,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>1.250000</scale>
+      <Icon><href>Layer0_Symbol_795dd1a0_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
