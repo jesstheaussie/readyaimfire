@@ -12,7 +12,7 @@ library(leaflet)
 library(ggmap)
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
+ui <- fluidPage(theme = "bootstrap.css",
    
    # Application title
    titlePanel("Ready, aim, fire"),
