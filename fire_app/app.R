@@ -16,7 +16,7 @@ lastRefugeDF<-read.table('/Users/wall0159/code/readyaimfire/fire_app/lastRefuge.
 names(lastRefugeDF) <- c('lng','lat')
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
+ui <- fluidPage(theme = "bootstrap.css",
    
    # Application title
    titlePanel("Ready, aim, fire"),
