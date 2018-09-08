@@ -44,9 +44,14 @@ server <- function(input, output) {
   
   output$mymap <- renderLeaflet({
     leaflet() %>%
-      addProviderTiles(providers$Stamen.TonerLite,
-                       options = providerTileOptions(noWrap = TRUE)
-      ) %>%
+      # addProviderTiles(providers$Stamen.TonerLite,
+      #                  options = providerTileOptions(noWrap = TRUE)
+      # ) %>%
+      # addMarkers(data = points())
+      # addProviderTiles(providers$Stamen.TonerLite,
+      #                  options = providerTileOptions(noWrap = TRUE)
+      # ) %>%
+      addProviderTiles(providers$OpenTopoMap) %>%
       addMarkers(data = points())
   })
   
