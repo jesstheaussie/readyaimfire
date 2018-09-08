@@ -72,8 +72,9 @@ server <- function(input, output) {
       # ) %>%
       addProviderTiles(providers$OpenTopoMap) %>%
       addMarkers(data = points()) %>%
-      addPolylines(data = route()) %>%
-      addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color='#00F')
+      addPolylines(data = route(), color="#FF0000") %>%
+      setView(points()$lon, points()$lat, zoom = 11) %>%
+      addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color="#FF0000", radius=20)
     
       
   })
