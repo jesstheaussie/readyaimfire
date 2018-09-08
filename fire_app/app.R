@@ -12,7 +12,7 @@ library(leaflet)
 library(ggmap)
 
 #read in the location data
-lastRefugeDF<-read.table('/Users/wall0159/code/readyaimfire/fire_app/lastRefuge.csv')
+lastRefugeDF<-read.table('./lastRefuge.csv')
 names(lastRefugeDF) <- c('lng','lat')
 
 # Define UI for application that draws a histogram
