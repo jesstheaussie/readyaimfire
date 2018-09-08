@@ -60,20 +60,7 @@ server <- function(input, output) {
       addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color='#00F')
   })
   
-  # from https://rstudio.github.io/leaflet/shiny.html
-  # Incremental changes to the map (in this case, replacing the
-  # circles when a new color is chosen) should be performed in
-  # an observer. Each independent set of things that can change
-  # should be managed in its own observer.
-  observe({
-    #pal <- colorpal()
-    
-    leafletProxy("map", data = lastRefugeDF) %>%
-      clearShapes() %>%
-      addCircles(radius = ~10^4/10, weight = 1, color = "#777777",
-                 fillOpacity = 0.7, popup = ~paste(1)
-      )
-  })
+ 
   
   
 }
