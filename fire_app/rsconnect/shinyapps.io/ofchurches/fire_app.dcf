@@ -1,0 +1,12 @@
+name: fire_app
+title: fire_app
+username:
+account: ofchurches
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 429648
+bundleId: 1575502
+url: https://ofchurches.shinyapps.io/fire_app/
+when: 1536371163.80364
+asMultiple: FALSE
+asStatic: FALSE
