@@ -21,7 +21,7 @@ names(lastRefugeDF) <- c('lng','lat')
 ui <- fluidPage(theme = "bootstrap.css",
    
    # Application title
-   titlePanel("Ready, aim, fire"),
+   titlePanel("Ready, Aim, Fire!"),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
@@ -84,6 +84,11 @@ server <- function(input, output) {
       addPolylines(data = route()[[3]], color="#0000FF") %>%
       setView(points()$lon, points()$lat, zoom = 11) %>%
       addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color="#FF0000",fillColor="#00FF00", radius=30, weight=10)
+
+ #     addPolylines(data = route(), color="#2F9D2F") %>%
+ #     setView(points()$lon, points()$lat, zoom = 11) %>%
+ #    addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color="#2F9D2F", radius=20)
+
     
       
   })
