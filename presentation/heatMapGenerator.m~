@@ -1,0 +1,38 @@
+
+% add heatmap vis to map
+
+[I,map] = imread('3_routes.png','png');
+imshow(I,map);
+
+% hm = zeros(size(I(:,:,1)), 'int8');
+
+x = repmat((1:size(I,1))',[1,size(I,2)]);
+y = repmat(1:size(I,2),[size(I,1),1]);
+
+z = y .^ 2 + ... % make the right size dangerous
+    x .^ 2 - ...   % make the bottom dangerous
+    (1024/2)^2 ;    % shift to the left
+
+
+spur = normpdf(y,1024/3,100) .* (x - 200);
+spur(spur<0) = 0;
+spur = spur / max(spur(:)) * 255;
+
+
+
+z(z<0) = 0;
+z = z / max(z(:)) * 255;
+
+z = z + spur;
+z = z / max(z(:)) * 255;
+
+imagesc(z)
+ybounds = [204, 815]
+xbounds=[262,661]
+
+
+% add into the map image
+I(:,:,1) = I(:,:,1) + uint8(z);
+I(:,:,1) = I(:,:,1) / max(max(I(:,:,1))) * 255;
+imshow(I,map)
+
