@@ -27,7 +27,7 @@ ui <- fluidPage(theme = "bootstrap.css",
    sidebarLayout(
       sidebarPanel(
         
-        textInput("address", "Enter address"), 
+        textInput("address", "Enter address", value="Burfords Hill rd, Mount Torrens"), 
         actionButton("submit", label = "Submit")
         
       ),
@@ -56,13 +56,14 @@ server <- function(input, output) {
     # next find the route to each dist
     list(osrmRoute(src = c("home", points()[1], points()[2]), 
                        dst = c("last refuges", closestLastRefuges[1,1],closestLastRefuges[1,2]),
-                       sp = TRUE),
-    osrmRoute(src = c("home", points()[1], points()[2]), 
-              dst = c("last refuges", closestLastRefuges[2,1],closestLastRefuges[2,2]),
-              sp = TRUE),
-    osrmRoute(src = c("home", points()[1], points()[2]), 
-              dst = c("last refuges", closestLastRefuges[3,1],closestLastRefuges[3,2]),
-              sp = TRUE))
+                       sp = TRUE)
+    # osrmRoute(src = c("home", points()[1], points()[2]), 
+    #           dst = c("last refuges", closestLastRefuges[2,1],closestLastRefuges[2,2]),
+    #           sp = TRUE),
+    # osrmRoute(src = c("home", points()[1], points()[2]), 
+    #           dst = c("last refuges", closestLastRefuges[3,1],closestLastRefuges[3,2]),
+    #           sp = TRUE))
+    )
     
   })
   
@@ -80,8 +81,8 @@ server <- function(input, output) {
       addProviderTiles(providers$OpenTopoMap) %>%
       addMarkers(data = points()) %>%
       addPolylines(data = route()[[1]], color="#FF0000") %>%
-      addPolylines(data = route()[[2]], color="#00FF00") %>%
-      addPolylines(data = route()[[3]], color="#0000FF") %>%
+      #addPolylines(data = route()[[2]], color="#00FF00") %>%
+      #addPolylines(data = route()[[3]], color="#0000FF") %>%
       setView(points()$lon, points()$lat, zoom = 11) %>%
       addCircles(lng=lastRefugeDF$lng, lat=lastRefugeDF$lat, color="#FF0000",fillColor="#00FF00", radius=30, weight=10)
 
